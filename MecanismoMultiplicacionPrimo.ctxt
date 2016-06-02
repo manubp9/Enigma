@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=numPrimo
+comment0.target=MecanismoMultiplicacionPrimo(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mecanismo01\r\n
+comment1.params=
+comment1.target=int\ getNumPrimo()
+comment1.text=\r\n\ devuelve\ el\ numero\ primo\r\n
+numComments=2
